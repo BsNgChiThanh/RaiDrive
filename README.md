@@ -13,12 +13,4 @@
 - ![image](https://github.com/user-attachments/assets/dc11702a-094f-49c6-b5ab-082c2915c7b9)
 - Nếu onedrive của bạn là tài khoản trường học hoặc thương gia thì chọn như hình sau và tương tự cho các trường hợp khác:
 - ![image](https://github.com/user-attachments/assets/ae02c9e9-e6db-4ea2-96dd-add6b74b7794)
-- 
-
-
- 
-
-
-
-
-
+- Vậy là xong!
