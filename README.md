@@ -1,5 +1,6 @@
 # RaiDrive
-
+- ![image](https://github.com/user-attachments/assets/892ab962-1334-4126-9b74-42be48da0f04)
+- ![image](https://github.com/BsNgChiThanh/Lich-phong-kham/assets/82578024/d575f08f-29b1-4848-83b0-fb5e88dcb50c)
 - **Download phần mềm RaiDrive [tại đây](https://www.raidrive.com/download)**
 - ![image](https://github.com/user-attachments/assets/b5e40084-6d81-4093-b935-3fd9c5bd17a5)
 - Bấm install
